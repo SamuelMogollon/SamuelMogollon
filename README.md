@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hey there! I'm **Samuel Mogollón**
 
-<!--
-**SamuelMogollon/SamuelMogollon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer & Tech Enthusiast  
+🚀 Passionate about clean design, problem-solving, and learning new technologies.  
+📍 Based in Colombia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 About Me
+I'm a developer focused on building fast, functional, and aesthetic web experiences.  
+I enjoy creating real-world projects that blend **creativity** and **logic**.
+
+---
+
+### 🧠 Skills
+
+**🌐 Front-End:** HTML · CSS · JavaScript 
+**💻 Back-End:** Node.js ·  
+**💾 Databases:** MongoDB · MySQL  
+**🎨 Design & Tools:** Figma · Git · GitHub  
+
+---
+
+### 📊 GitHub Insights
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamuelMogollon&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=SamuelMogollon&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelMogollon&layout=compact&theme=radical)
+
+---
+
+### 🤝 Connect with Me
+
+📩 **Email:** smogollonjanne@gmail.com  
+💬 **WhatsApp:** +57 3124576033  
+💼 [LinkedIn](https://www.linkedin.com/in/samuelmogollon) 📷 [Instagram](https://www.instagram.com/semj.13/)
+
+> _“Build something today that makes tomorrow easier.”_
+
+---
+
