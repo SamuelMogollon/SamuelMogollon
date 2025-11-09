@@ -33,7 +33,7 @@ I enjoy creating real-world projects that blend **creativity** and **logic**.
 
 📩 **Email:** smogollonjanne@gmail.com  
 💬 **WhatsApp:** +57 3124576033  
-💼 [LinkedIn](https://www.linkedin.com/in/samuelmogollon) 📷 [Instagram](https://www.instagram.com/semj.13/)
+💼 [LinkedIn](https://www.linkedin.com/in/samuel-enrique-mogollón-janne-086475398/) 📷 [Instagram](https://www.instagram.com/semj.13/)
 
 > _“Build something today that makes tomorrow easier.”_
 
