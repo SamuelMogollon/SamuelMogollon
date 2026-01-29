@@ -1,41 +1,24 @@
-# 👋 Hey there! I'm **Samuel Mogollón**
+<!-- HERO -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:6ee7b7,100:111111&height=220&section=header&text=Samuel%20Mogollón&fontSize=44&fontColor=ffffff" />
+</p>
 
-💻 Web Developer & Tech Enthusiast  
-🚀 Passionate about clean design, problem-solving, and learning new technologies.  
-📍 Based in Colombia  
+<h3 align="center">🧠 Software Developer in Progress · Java & Web</h3>
 
----
-
-### 🌟 About Me
-I'm a developer focused on building fast, functional, and aesthetic web experiences.  
-I enjoy creating real-world projects that blend **creativity** and **logic**.
-
----
-
-### 🧠 Skills
-
-**🌐 Front-End:** HTML · CSS · JavaScript 
-**💻 Back-End:** Node.js ·  
-**💾 Databases:** MongoDB · MySQL  
-**🎨 Design & Tools:** Figma · Git · GitHub  
+<p align="center">
+  <i>I don’t code to look advanced. I code to actually understand.</i>
+</p>
 
 ---
 
-### 📊 GitHub Insights
+## 🧬 This GitHub Is a Learning Log
+Not a polished showcase.  
+Not a buzzword collection.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamuelMogollon&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=SamuelMogollon&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelMogollon&layout=compact&theme=radical)
-
----
-
-### 🤝 Connect with Me
-
-📩 **Email:** smogollonjanne@gmail.com  
-💬 **WhatsApp:** +57 3124576033  
-💼 [LinkedIn](https://www.linkedin.com/in/samuel-enrique-mogollón-janne-086475398/) 📷 [Instagram](https://www.instagram.com/semj.13/)
-
-> _“Build something today that makes tomorrow easier.”_
+It’s a **record of real progress** —  
+projects built to understand **logic, structure, and responsibility**.
 
 ---
 
+## 🧠 What I’m Actively Learning
+```txt
