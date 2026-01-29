@@ -74,11 +74,4 @@ Every repository reflects:
 </p>
 
 ---
-
-## 🧠 What I'm Actively Learning
 ```txt
-→ Better Java structure
-→ Clean OOP principles
-→ Git workflow & commits
-→ Backend fundamentals
-→ Thinking before coding
